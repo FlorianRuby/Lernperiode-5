@@ -19,10 +19,12 @@
 
 - [ ] Leere Website erstellen
 - [ ] Textfeld einfügen/ Option das man schreiben kann
+- [ ] Textfeld einfügen/ Option das man schreiben kann
 - [ ] Textfeld formatieren
-- [ ] Notizen werden für kurze Zeit gespeichert 
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
+- [ ] Notizen werden für kurze Zeit gespeichert 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
