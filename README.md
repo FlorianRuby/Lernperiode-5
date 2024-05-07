@@ -20,13 +20,13 @@
 - [X] Leere Website erstellen
 - [X] Textfeld einfügen/ Option das man schreiben kann
 - [X] Textfeld einfügen/ Option das man schreiben kann
-- [ ] Textfeld formatieren
+- [X] Textfeld formatieren
 
 ✍️ Heute habe ich generell mit HTML und CSS gearbeitet und habe viel verschiedene Sachen getestet. Ich habe einen Follow cursor feature mit einem Tutorial erstellt und habe auch an meinem eigentlichen Thema, eine Webseite auf welcher man Sachen aufschreiben kann gewidmet. In meinem Projekt probiere ich gerade herauszufinden wie man etwas schreiben kann, ohne das man auf das Textfeld klicken muss. 
 
 ## 7.5.2024
-- [ ] Text wird erkannt ohne das man auf das Textfeld klickt
-- [ ] Text wird erkannt ohne das man auf das Textfeld klickt
+- [X] Text wird erkannt ohne das man auf das Textfeld klickt
+- [X] Text wird erkannt ohne das man auf das Textfeld klickt
 - [ ] Textfeld formatieren (Linien unter Text)
 - [ ] Markdown implementation
 
