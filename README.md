@@ -38,6 +38,14 @@
 - [ ] Markdown implementation
 - [ ] Markdown implementation 
 - [ ] Markdown implementation
+
+ ✍️ Heute habe ich wieder Wege gesucht, wie ich Markdown implementieren kann. Ich habe allerdings keine Wege gefunden die gepasst haben, ich habe wieder verschiedene converter/parser probiert allerdings haben alle entweder die Formatierung der Webseite verändert oder sie haben nicht funktioniert bzw nicht die gewünschten features gehabt. Ich werde in der nächsten Woche weiter machen und probieren Markdown zu implementieren, da ich danach nur noch den Schritt habe das man die Notizen auf einem Account speichern kann und ich deswegen noch genügend Zeit habe.
+
+## 19.5.2024
+- [ ] Markdown implementation
+- [ ] Markdown implementation
+- [ ] Markdown implementation 
+- [ ] Markdown implementation
       
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
