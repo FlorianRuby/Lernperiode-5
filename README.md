@@ -39,13 +39,21 @@
 - [ ] Markdown implementation 
 - [ ] Markdown implementation
 
- ✍️ Heute habe ich wieder Wege gesucht, wie ich Markdown implementieren kann. Ich habe allerdings keine Wege gefunden die gepasst haben, ich habe wieder verschiedene converter/parser probiert allerdings haben alle entweder die Formatierung der Webseite verändert oder sie haben nicht funktioniert bzw nicht die gewünschten features gehabt. Ich werde in der nächsten Woche weiter machen und probieren Markdown zu implementieren, da ich danach nur noch den Schritt habe das man die Notizen auf einem Account speichern kann und ich deswegen noch genügend Zeit habe.
+✍️ Heute habe ich wieder Wege gesucht, wie ich Markdown implementieren kann. Ich habe allerdings keine Wege gefunden die gepasst haben, ich habe wieder verschiedene converter/parser probiert allerdings haben alle entweder die Formatierung der Webseite verändert oder sie haben nicht funktioniert bzw nicht die gewünschten features gehabt. Ich werde in der nächsten Woche weiter machen und probieren Markdown zu implementieren, da ich danach nur noch den Schritt habe das man die Notizen auf einem Account speichern kann und ich deswegen noch genügend Zeit habe.
 
 ## 19.5.2024
 - [ ] Markdown implementation
 - [ ] Markdown implementation
 - [ ] Markdown implementation 
 - [ ] Markdown implementation
-      
+
+✍️ Heute habe ich wieder an der Markdown implementierung gearbeitet und habe wieder verschiedene Wege gesucht und ausprobiert. Ich habe allerdings wieder keinen Weg gefunden der mir gefallen hat und ich habe mich deswegen entschlossen mit einer Markdown implementierung aufzuhören, da es mich zu viel Zeit kostet. Ich habe danach an dem Modul 293 gearbeitet, da ich keine Motivation hatte die Dateispeicherung mit Javascript anzufangen.  
+
+## 26.5.2024
+- [ ] Javascript Tutorial zu dem Speichern von Daten anschauen
+- [ ] Speicherung von Daten mit Javascript implementieren
+- [ ] Speicherung von Daten mit Javascript implementieren
+- [ ] Speicherung von Daten mit Javascript implementieren
+ 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
