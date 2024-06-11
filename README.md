@@ -50,10 +50,20 @@
 ✍️ Heute habe ich wieder an der Markdown implementierung gearbeitet und habe wieder verschiedene Wege gesucht und ausprobiert. Ich habe allerdings wieder keinen Weg gefunden der mir gefallen hat und ich habe mich deswegen entschlossen mit einer Markdown implementierung aufzuhören, da es mich zu viel Zeit kostet. Ich habe danach an dem Modul 293 gearbeitet, da ich keine Motivation hatte die Dateispeicherung mit Javascript anzufangen.  
 
 ## 26.5.2024
-- [ ] Javascript Tutorial zu dem Speichern von Daten anschauen
-- [ ] Speicherung von Daten mit Javascript implementieren
-- [ ] Speicherung von Daten mit Javascript implementieren
-- [ ] Speicherung von Daten mit Javascript implementieren
- 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
+✍️ Heute habe ich einen Test nachgeschrieben, und hatte deswegen keine Zeit um an meinem Projekt weiter zu arbeiten.
+
+
+## 11.6.2024
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+
+✍️ Heute habe ich an meiner Webseite im M293 weitergearbeitet und habe eine Startseite erstellt, von welcher man dann auf die anderen Teile der Webseite gehen kann.
+
+## 18.6.2024
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [ ] Am Modul M293 (eigene Webseite) arbeiten
