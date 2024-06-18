@@ -55,14 +55,22 @@
 
 
 ## 11.6.2024
-- [ ] Am Modul M293 (eigene Webseite) arbeiten
-- [ ] Am Modul M293 (eigene Webseite) arbeiten
-- [ ] Am Modul M293 (eigene Webseite) arbeiten
-- [ ] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
 
 ✍️ Heute habe ich an meiner Webseite im M293 weitergearbeitet und habe eine Startseite erstellt, von welcher man dann auf die anderen Teile der Webseite gehen kann.
 
 ## 18.6.2024
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+- [X] Am Modul M293 (eigene Webseite) arbeiten
+
+✍️ Heute habe ich an meiner Webseite im M293 weitergearbeitet. Ich habe eine Navbar gemacht, welche sich ausklappt wenn man hovered und ich habe eine standard Seite erstellt, welche ich einfach kopieren und abändern kann.
+
+## 25.6.2024
 - [ ] Am Modul M293 (eigene Webseite) arbeiten
 - [ ] Am Modul M293 (eigene Webseite) arbeiten
 - [ ] Am Modul M293 (eigene Webseite) arbeiten
