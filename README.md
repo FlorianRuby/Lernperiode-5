@@ -88,3 +88,12 @@ Ich habe eine [Portfolio Seite](https://florianruby.github.io/ruby-photography/i
 - [X] Am Modul M293 (eigene Webseite) arbeiten
 - [X] Am Modul M293 (eigene Webseite) arbeiten
 
+# Reflexion
+
+## Zusammenfassung
+Während der Lernperiode 5 vom 23. April bis 25. Juni 2024 habe ich an einem Notizen Webseiten Projekt und einem Portfolio Webseiten Projekt gearbeitet. Nach der Planung am 23. April, begann ich am 30. April mit der Erstellung der Website mit einem Eingabefeld, welches die gesammte Webseite einimmt. Am 7. Mai schaffte ich es, Texteingaben ohne Klick ins Textfeld zu ermöglichen, und experimentierte mit Markdown-Implementierungen. Vom 12. Mai bis 19. Mai suchte ich weiter nach einer passenden Markdown-Lösung, gab nach vielen verschiedenen Ansätzen jedoch auf, da mir keine gefiel. Am 26. Mai pausierte ich das Projekt wegen eines Tests. Vom 11. Juni an arbeitete ich an der Webseite für Modul 293, erstellte eine Startseite und eine Navbar bis zum 25. Juni.
+
+# LA-Reflxion
+### Was habe ich in diesem Jahr gelernt (Technisch)
+Ich habe in diesem Schuljahr gelernt, wie selbst Inhalte auf Github erstellt und dieses regelmässig nachführt. Ich hbe ihn diesem Jahr auch zum ersten mal mit Arbeitspaketen gearbeitet und ich denke das diese mir oft geholfen haben aber mich auch manchmal limitiert haben, da es oft nicht so einfach ist 5 Lektionen in 4 45 Minuten Aufgaben zu unterteilen.  Im nächsten Jahr würde ich gerne im Lernatelier mehr Projekte mit anderen Personen machen und vielleicht auch längere Projekte, welche mehr als nur eine Lernperiode lang gehen. Das ist auch mein Verbesserungschlag/Wunsch an das nächste Jahr also das man Projekte machen kann, welche länger als nur eine LP sind.
+### Was ich mir wünsche das es anders wäre
