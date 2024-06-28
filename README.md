@@ -8,7 +8,7 @@ Ich habe eine [Portfolio Seite](https://florianruby.github.io/ruby-photography/i
 
 *Animation*
 
-![Subpage - Portfolio](https://github.com/FlorianRuby/Lernperiode-5/assets/142885331/8da8bfc8-0c0b-497c-9bc1-9c81981040e4 | width = 100)
+![Subpage - Portfolio](https://github.com/FlorianRuby/Lernperiode-5/assets/142885331/8da8bfc8-0c0b-497c-9bc1-9c81981040e4) | width = 100)
 
 *Subpage - Portfolio*
 
