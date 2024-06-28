@@ -5,12 +5,15 @@
 # Fertiges Projekt 
 Ich habe eine Portfolio Webseite erstellt, auf welcher man meine Fotos sehen kann und noch mehr. Meine Seite begrüsst einen direkt mit einer scroll animation, von welcher man mit der Navbar auf andere Seiten wie About, Contact oder Portfolio kommen kann. Ich habe ausserdem die Webseite auf Englisch und Deutsch geschrieben und man kann mit de Icon oben rechts die Sprache ändern.
 ![Animation Startseite](https://github.com/FlorianRuby/Lernperiode-5/assets/142885331/27d02d90-4e83-41f1-a8db-b6b3e9853141)
+
 *Animation*
 
 ![Subpage - Portfolio](https://github.com/FlorianRuby/Lernperiode-5/assets/142885331/8da8bfc8-0c0b-497c-9bc1-9c81981040e4)
+
 *Subpage - Portfolio*
 
 ![Navbar](https://github.com/FlorianRuby/Lernperiode-5/assets/142885331/63b57058-ede9-4c4c-8d9f-30d93b3a464d)
+
 *Navbar*
 
 ## Grob-Planung
